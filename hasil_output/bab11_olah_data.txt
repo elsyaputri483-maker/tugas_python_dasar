@@ -1,3 +1,0 @@
-Rata-rata: 78.4
-Lulus: ['Ani', 'Citra', 'Eka']
-Tertinggi: Citra

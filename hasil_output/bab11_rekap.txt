@@ -1,3 +1,0 @@
-Kelas   Jumlah    Rata
-A            3    85.3
-B            2    68.0

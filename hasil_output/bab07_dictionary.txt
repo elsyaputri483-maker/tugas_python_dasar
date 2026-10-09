@@ -1,5 +1,0 @@
-Sari
--
-nama: Sari
-umur: 20
-kota: Bandung

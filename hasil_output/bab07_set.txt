@@ -1,4 +1,0 @@
-{1, 2, 3}
-{'Ani', 'Citra', 'Dodi', 'Budi'}
-{'Budi'}
-{'Ani', 'Citra'}

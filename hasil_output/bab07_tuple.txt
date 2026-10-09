@@ -1,7 +1,0 @@
-x=3, y=7
-255 3
-Traceback (most recent call last):
-  File "/home/claude/python_dasar/bab07/tuple.py", line 8, in <module>
-    titik[0] = 10           # TypeError! (memang sengaja, tuple immutable)
-    ~~~~~^^^
-TypeError: 'tuple' object does not support item assignment
