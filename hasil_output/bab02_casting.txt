@@ -1,0 +1,4 @@
+30
+<class 'float'>
+Umur: 20
+False True

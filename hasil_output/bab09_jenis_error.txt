@@ -1,0 +1,8 @@
+SyntaxError        -> SyntaxError: '(' was never closed (<string>, line 1)
+IndentationError   -> IndentationError: expected an indented block after 'if' statement on line 1 (<string>, line 2)
+NameError          -> NameError: name 'skor_x' is not defined
+TypeError          -> TypeError: can only concatenate str (not "int") to str
+ValueError         -> ValueError: invalid literal for int() with base 10: 'abc'
+ZeroDivisionError  -> ZeroDivisionError: division by zero
+IndexError         -> IndexError: list index out of range
+KeyError           -> KeyError: 'b'

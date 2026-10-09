@@ -1,0 +1,4 @@
+16
+('Budi', 95)
+lokal
+global

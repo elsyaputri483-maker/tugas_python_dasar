@@ -1,0 +1,5 @@
+12
+PYTHON DASAR
+Python
+['Python', 'Dasar']
+Belajar Python Dasar bab 2

@@ -1,0 +1,7 @@
+kelas
+A    85.333333
+B    68.000000
+Name: nilai, dtype: float64
+['Ani', 'Citra', 'Eka']
+    nama kelas  nilai
+2  Citra     A     93

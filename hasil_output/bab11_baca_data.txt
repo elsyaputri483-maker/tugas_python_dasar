@@ -1,0 +1,2 @@
+5 baris
+{'nama': 'Ani', 'kelas': 'A', 'nilai': 85}
